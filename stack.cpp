@@ -21,8 +21,7 @@ bool isFull(){
     if (top >= max){
         return true;
     } else {
-        return false;
-    }
+        
 }
 
 //tampil data
